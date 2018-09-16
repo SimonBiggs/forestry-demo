@@ -1,6 +1,6 @@
 ---
 title: Phil Briggs
-date: 2017-11-14 10:54:31 +0000
+date: 2018-10-02 00:00:00 +1000
 role:
 - staff
 thumbnail: "/uploads/2018/09/16/phil-briggs-2016-e1472733631587-circle.jpg"
