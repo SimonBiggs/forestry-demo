@@ -10,4 +10,4 @@ linkedin: ''
 layout: person
 
 ---
-Years ago, en route to India to find a guru (teacher) to help me discover what life is all about, I was arrested out of rank heathenism by Jesus Christ, in Darwin. Since that time my heart and life has been increasingly narrowed, and expanded, to an all-encompassing preoccupation with knowing the true and living God in Jesus Christ, and with seeking to see others come to the same life-transforming encounter, and grow to maturity in this reality..
+Years ago, en route to India to find a guru (teacher) to help me discover what life is all about, I was arrested out of rank heathenism by Jesus Christ, in Darwin. Since that time my heart and life has been increasingly narrowed, and expanded, to an all-encompassing preoccupation with knowing the true and living God in Jesus Christ, and with seeking to see others come to the same life-transforming encounter, and grow to maturity in this reality.
