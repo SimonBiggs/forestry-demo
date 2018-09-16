@@ -1,17 +1,13 @@
 ---
-title: Charlize Babatunde
+title: Phil Briggs
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
-sub_heading: Administration
+thumbnail: "/uploads/2018/09/16/phil-briggs-2016-e1472733631587-circle.jpg"
+sub_heading: Elder
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
-
-Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Years ago, en route to India to find a guru (teacher) to help me discover what life is all about, I was arrested out of rank heathenism by Jesus Christ, in Darwin. Since that time my heart and life has been increasingly narrowed, and expanded, to an all-encompassing preoccupation with knowing the true and living God in Jesus Christ, and with seeking to see others come to the same life-transforming encounter, and grow to maturity in this reality.
