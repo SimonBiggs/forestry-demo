@@ -1,6 +1,6 @@
 ---
 title: Ross Brinkman
-date: 2018-10-16 21:16:00 +1000
+date: 2018-10-01 00:00:00 +1000
 role:
 - advisor
 - board
