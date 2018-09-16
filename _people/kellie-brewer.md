@@ -1,18 +1,14 @@
 ---
-title: Kellie Brewer
+title: Terry Haig
 date: 2017-11-14 10:59:07 +0000
 role:
 - advisor
 - staff
-sub_heading: Professor
-thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
+sub_heading: Missions Team Convenor
+thumbnail: "/uploads/2018/09/16/terry-haig-1-e1472734042402-circle.png"
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
-
-Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+My wife Maria and I have been worshipping at the Wagga Church of Christ since 1978 and grow even more passionate about serving the Lord with each year that passes. As the convenor of our Missions Finance and Support team, I have the role of calling in our members for the propagation of support for our mission teams in the field.
