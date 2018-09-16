@@ -1,18 +1,20 @@
 ---
-title: Martin Marino
+title: Ross Brinkman
 date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
 - board
-sub_heading: Advisor
-thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
-email: martin@belkirkcollege.com
+sub_heading: Senior Pastor
+thumbnail: "/uploads/2018/09/16/20161008_083352-e1476096016593-300x300-circle.jpg"
+email: waggachurchofchristpastor@gmail.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+With more than 20 years of full time ministry experience, my wife Lyn and I are just as keen to serve the Lord among his people as ever!
 
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
+We love Wagga and this church. We have 6 adult Children, with some living here. I have a deep commitment to the Word of God, to discipleship and to the family nature of church which means we must stay relevant to all ages.
 
-Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
+I came to Christ quite young and have stayed passionate about the development of young Christians, so I am delighted to work among such a talented variety of Christian leaders such as those in our Youth and Music teams.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Ultimately, Jesus is the true leader of the church and each Christian must walk with Him at the centre of their life, and Ministry is therefore about humbly keeping in step with Jesus 'the Author and Perfecter of our faith' ([Hebrews 12:2](https://biblia.com/bible/niv/Heb%2012.2)).
