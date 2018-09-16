@@ -1,22 +1,18 @@
 ---
-title: Mary-Ann MacSwain
+title: Steve & Alison Gilmour
 date: 2016-11-08 00:00:00 +0000
 description: ''
-email: maryanne@belkirkcollege.ca
+email: ''
 linkedin: ''
 role:
 - staff
 - advisor
 slug: ''
-sub_heading: Research Chair
+sub_heading: Kids Church / Music Director
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
-thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
-layout: 'person'
+thumbnail: "/uploads/2018/09/16/IMG_3285-e1472733972861-circle.jpg"
+layout: person
+
 ---
-
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
-
-Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+We love Jesus. It is amazing to think of how much our lives have changed because of his grace and work in us over so many years. We love our family and we love serving in the Kids Church ministry and in the Worship team. We pray for our boys Max and Spencer to know the life that can only be found in Jesus.
