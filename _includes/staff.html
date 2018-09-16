@@ -28,10 +28,8 @@
                                 <div class="subtitle">
                                     {{ person.sub_heading }}
                                 </div>{% endif %}
-                                <p>
-                                    {{ person.content }}
-                                                     
-<!--                                     {{ person.content | truncatewords: 25, "...<br><br>Continue reading →" }} -->
+                                <p>    
+                                   {{ person.content | truncatewords: 40, "...<br><br>Continue reading →" }}
                                 </p>
                             </div>
                         </div>
