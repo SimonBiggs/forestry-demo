@@ -1,6 +1,6 @@
 ---
 title: Example Draft
-layout: Test draft created 17/9/2018 at 1:05pm.
+layout: ''
 date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
